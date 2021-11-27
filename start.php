@@ -16,7 +16,7 @@ include("auth.php"); //include auth.php file on all secure pages
 </head>
 <body>
 <div class="form">
-  <h1>Poodos Job</h1>
+  <h1>Poodos Job that is now on github</h1>
   <h2>Let's get started!</h2>
 <p>Welcome <?php echo $_SESSION['username']; ?>!</p>
 <p>This is secure area.</p>
